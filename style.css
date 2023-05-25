@@ -1,0 +1,149 @@
+td {
+    border: 1px solid black;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table tr:nth-child(2) td:nth-child(2) {
+    background-color: gold;
+}
+
+table tr:nth-child(3) td:nth-child(3) {
+    background-color: gold;
+}
+
+table tr:nth-child(4) td:nth-child(4) {
+    background-color: gold;
+}
+
+table tr:nth-child(5) td:nth-child(5) {
+    background-color: gold;
+}
+
+table tr:nth-child(6) td:nth-child(6) {
+    background-color: gold;
+}
+
+table tr:nth-child(7) td:nth-child(7) {
+    background-color: gold;
+}
+
+table tr:nth-child(8) td:nth-child(8) {
+    background-color: gold;
+}
+
+table tr:nth-child(1) td:nth-child(2) {
+    background-color: orange;
+}
+
+table tr:nth-child(1) td:nth-child(3) {
+    background-color: orange;
+}
+
+table tr:nth-child(1) td:nth-child(4) {
+    background-color: orange;
+}
+
+table tr:nth-child(1) td:nth-child(5) {
+    background-color: orange;
+}
+
+table tr:nth-child(1) td:nth-child(6) {
+    background-color: orange;
+}
+
+table tr:nth-child(1) td:nth-child(7) {
+    background-color: orange;
+}
+
+table tr:nth-child(1) td:nth-child(8) {
+    background-color: orange;
+}
+
+table tr:nth-child(1) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(2) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(3) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(4) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(5) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(6) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(7) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(8) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(10) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(11) td:nth-child(7) {
+    background-color: orange;
+}
+
+table tr:nth-child(12) td:nth-child(9) {
+    background-color: orange;
+}
+
+table tr:nth-child(12) td:nth-child(2) {
+    background-color: green;
+}
+
+table tr:nth-child(12) td:nth-child(3) {
+    background-color: green;
+}
+
+table tr:nth-child(12) td:nth-child(4) {
+    background-color: green;
+}
+
+table tr:nth-child(12) td:nth-child(5) {
+    background-color: green;
+}
+
+table tr:nth-child(12) td:nth-child(6) {
+    background-color: green;
+}
+
+table tr:nth-child(12) td:nth-child(7) {
+    background-color: green;
+}
+
+table tr:nth-child(12) td:nth-child(8) {
+    background-color: green;
+}
+table tr:nth-child(9) td:nth-child(1) {
+    background-color: lightgray;
+}
+table tr:nth-child(9) td:nth-child(2) {
+    background-color: orange;
+}
+table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin: 0;
+}
